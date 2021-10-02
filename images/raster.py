@@ -89,7 +89,12 @@ def height(image: Raster) -> int:
     return len(image)
 
 
-def show(image: Raster) -> None:
-    """Show the image, resized to not be too large or small."""
+def show(image: Raster, factor:float = 1) -> None:
+    """Show the image, resizing the bounding box by the factor.
+
+    factor must be positive
+    """
+    bounding_width, bounding_height = plt.rcParams["figure.figsize"]
+    plt.figure(figsize=(bounding_width * factor, bounding_height * factor))
     plt.axis('off')         # don't show the x and y axes
     plt.imshow(image)
