@@ -1,0 +1,6 @@
+funky*
+*.md
+!README.md
+notes.txt
+.ipynb_checkpoints
+*.pyc
