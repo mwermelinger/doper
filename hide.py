@@ -46,7 +46,6 @@ def run_first(infile: str) -> None:
     for cell in nb.cells:
         if cell.cell_type == 'code' and 'pass' in cell.source:
             cell.source = solution.sub('pass', cell.source)
-            print(cell.source)
     jupytext.write(nb, nbfile)
 
 if sys.argv[1] == '-d':
