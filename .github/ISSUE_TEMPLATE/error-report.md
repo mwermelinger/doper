@@ -1,6 +1,6 @@
 ---
 name: Error report
-about: Report an error to help improve the exercises
+about: Report an error in the exercises
 title: ''
 labels: bug
 assignees: ''
@@ -13,9 +13,9 @@ This could be a simple typo, a factual mistake, a mismatch between code and text
 
 Example: In 1-introduction.ipynb, section 1.1, paragraph 2, the explanation of ... is wrong.
 
-Example: Code cell 3 in 2-puzzles.ipynb raises syntax error ...
+Example: Code cell 3 in 2-puzzles.ipynb raises error ...
 
-**The fix**
+**The fix (optional)**
 If you can, please suggest how the mistake should be fixed.
 
 **Context (optional)**
