@@ -1,8 +1,0 @@
-funky*
-noisy*
-*.md
-!README.md
-*sol.ipynb
-notes.txt
-.ipynb_checkpoints
-*.pyc
