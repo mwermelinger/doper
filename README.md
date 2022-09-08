@@ -1,6 +1,6 @@
 # Domain-Oriented Programming Exercises
 This repository is a collection of programming exercises related to
-image processing and, in the future, other domains.
+[image processing](images/README.md) and, in the future, other domains.
 I'm not an expert in any domain. The explanations are based on my own
 (possibly incorrect and definitely incomplete) understanding.
 
