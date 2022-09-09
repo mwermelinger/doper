@@ -1,10 +1,13 @@
 # Domain-Oriented Programming Exercises
 This repository is a collection of programming exercises related to
-[image processing](images/README.md) and, in the future, other domains.
+[image processing](images/README.md), [biology](biology/README.md) and,
+in the future, other domains. You don't know any domain knowledge to attempt
+these exercises: I provide all the necessary information. However,
 I'm not an expert in any domain. The explanations are based on my own
 (possibly incorrect and definitely incomplete) understanding.
 
 The exercises are presented in Python, using Jupyter notebooks,
+to interleave code and explanations and
 to take advantage of their multimedia capabilities, but the exercises
 can be adapted to other languages and programming environments.
 
