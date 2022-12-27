@@ -1,6 +1,7 @@
 # Domain-Oriented Programming Exercises
 This repository is a collection of programming exercises related to
-[image processing](images/README.md), [biology](biology/README.md) and,
+[audio](audio/README.md), [biology](biology/README.md),
+[image processing](images/README.md), [math](math/README.md) and,
 in the future, other domains. You don't need any domain knowledge to attempt
 these exercises: I provide all the necessary information. However,
 I'm not an expert in these domains. The explanations are based on my own
